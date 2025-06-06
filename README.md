@@ -47,4 +47,4 @@ Yazılım yolculuğumdaki gelişimimi ve katkılarımı buradan takip edebilirsi
 
 Projelerim hakkında konuşmak, iş birliği yapmak veya sadece merhaba demek için bana ulaşmaktan çekinmeyin!
 
-[📧 E-posta](mailto:senin_eposta_adresin@example.com) | [🔗 LinkedIn](https://www.linkedin.com/in/senin_linkedin_profilin)
+[📧 E-posta](mailto:sergencetnturk@gmail.com) | [🔗 LinkedIn]([https://www.linkedin.com/in/senin_linkedin_profilin](https://www.linkedin.com/jobs/))
