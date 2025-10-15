@@ -37,8 +37,8 @@ Yazılım yolculuğumdaki gelişimimi ve katkılarımı buradan takip edebilirsi
 
 ### 🎯 Gelecek Hedeflerim
 
-* 6 ay içinde iyi seviyede freelance projeler yapabilecek duruma gelmek.
-* İleri seviye React/Next.js ve Node.js/Express bilgimi pekiştirmek.
+* 12 ay içinde iyi seviyede freelance projeler yapabilecek duruma gelmek.
+* İleri seviye React/Next.js ve Node.js/Express bilgisi Edinmek.
 * Kendi startup'ımı kurmak için teknik ve iş geliştirme deneyimi kazanmak.
 
 ---
