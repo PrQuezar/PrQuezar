@@ -9,7 +9,7 @@ Gelecekteki bir **startup kurucusu** olma vizyonuyla, Fullstack geliştirme dün
 Şu anki yolculuğumda, temel ve ileri seviye modern web teknolojileri üzerinde yoğunlaşıyorum:
 
 * **React:** Bileşen tabanlı mimariyi ve Hook'ları (useState, useEffect) aktif olarak kullanıyorum.
-* **JavaScript:** Gelişmiş DOM manipülasyonu, asenkron programlama ve modern ES6+ özelliklerine odaklanıyorum.
+* **JavaScript:** Orta Duzey DOM manipülasyonu, asenkron programlama ve modern ES6+ özelliklerine odaklanıyorum.
 * **Temel Güçlendirme:** HTML5 ve CSS3 ile her cihazda çalışan, erişilebilir arayüzler tasarlıyorum.
 * **Versiyon Kontrol:** Projelerimi Git ve GitHub kullanarak etkin şekilde yönetiyor, ekip çalışmasına hazır hale getiriyorum.
 
